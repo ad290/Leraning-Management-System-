@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For further queries, contact:
 - **Name:** Siva Prasanth M
-- **Email:** sivabhuvan20@gmail.com
+- **Email:** adityaapawar01@gmail.com
 =======
 # Leraning-Management-System-
 >>>>>>> f8ca85b526a88bff0c7a0f844d2f6320b1f3877a
