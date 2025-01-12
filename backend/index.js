@@ -7,7 +7,7 @@ const app = express()
 const Routes = require("./routes/route.js")
 const path = require("path");
 
-const PORT = process.env.PORT || 5001
+
 
 dotenv.config();
 
@@ -44,6 +44,8 @@ if (process.env.NODE_ENV === "production") {
 }
 
 // --------------------------deployment------------------------------
+
+const PORT = process.env.PORT || 5001
 
 app.listen(PORT, () => {
     console.log(`Server started at port no. ${PORT}`)
